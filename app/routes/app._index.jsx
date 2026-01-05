@@ -95,7 +95,7 @@ export default function Index() {
         Generate a product
       </s-button>
 
-      <s-section heading="Welcome to AIB Technovations! MotherFuckers 🎉">
+      <s-section heading="Welcome to AIB Technovations!🎉">
         <s-paragraph>
           This embedded app template uses{" "}
           <s-link
