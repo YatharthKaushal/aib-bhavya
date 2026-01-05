@@ -90,12 +90,12 @@ export default function Index() {
   const generateProduct = () => fetcher.submit({}, { method: "POST" });
 
   return (
-    <s-page heading="Shopify app template">
+    <s-page heading="AIB Bhavya App - Installation Verified!">
       <s-button slot="primary-action" onClick={generateProduct}>
         Generate a product
       </s-button>
 
-      <s-section heading="Congrats on creating a new Shopify app 🎉">
+      <s-section heading="Welcome to AIB Bhavya! App Successfully Installed 🎉">
         <s-paragraph>
           This embedded app template uses{" "}
           <s-link
